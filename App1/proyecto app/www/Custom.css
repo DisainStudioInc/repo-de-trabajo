@@ -1,0 +1,248 @@
+*{
+    margin:0;
+    padding:0;
+    font-family: "Sansita One";
+
+    }
+header nav{
+    background-color:black;
+    border:none;
+    width:100%;
+    position: fixed;
+    height:59px;
+    }
+header figure img{
+  width:4%;
+  height:5%;
+  float:left;
+  margin:auto;
+  margin-top:3px;
+    }
+
+header nav figure h3{
+
+  font-family:"Sansita One";
+  color:white;
+  float:none;
+  position:fixed;
+  margin-left: 60px;
+  margin-top:20px
+    }
+
+.menu_bar{
+    display:none;
+    position:fixed;
+    }
+
+header nav ul{
+    list-style:none;
+    text-decoration:none;
+    color:#fff;
+    float: right;
+    }
+
+header nav ul li{
+    float:left;
+    color:#FFF;
+    padding:20px;
+    text-decoration:none;
+    display:block;
+
+    }
+
+header nav ul li a{
+    text-decoration:none;
+    color:white;
+    }
+
+header nav ul li:hover{
+    background-color:#037e8c;
+    text-decoration:none;
+    }
+
+#main{
+  background-color:#0080FF;
+    }
+
+#main img{
+    position:static;
+    margin-top:70px;
+    width:31%;
+    display:inline-block;
+    margin-left: 2px;
+
+    }
+
+#main h1{
+    text-align:center;
+    font-family:"Sansita One";
+    width:100%;
+    position: static;
+    color:white;
+    margin-top:35px;
+    margin-bottom: 50px;
+    float:left;
+
+    }
+
+
+.campaings{
+  float:left;
+  margin-left:100px;
+  display:inline-block;
+  text-align:left;
+  margin-top:5px;
+    }
+
+.sitios{
+  float:center;
+  text-align:left;
+  display:inline-block;
+    }
+
+.plan{
+  margin-right: 100px;
+  display:inline-block;
+  text-align:left;
+  float:right;
+    }
+
+.analytics{
+  display:inline-block;
+  text-align:center;
+  margin:30px;
+  padding:auto;
+  width:20%;
+}
+
+.hosting{
+  text-align:center;
+  display:inline-block;
+  margin:30px;
+  padding:auto;
+  width:20%;
+}
+
+.dominio{
+  text-align:center;
+  display:inline-block;
+  margin:30px;
+  padding:auto;
+  width:20%;
+}
+
+.seo{
+  text-align:center;
+  display:inline-block;
+  margin:30px;
+  padding:auto;
+  width:20%;
+}
+
+.update{
+  text-align:center;
+  display:inline-block;
+  margin:30px;
+  padding:auto;
+  width:20%;
+}
+
+.webmaster{
+  text-align:center;
+  display:inline-block;
+  margin:30px;
+  padding:auto;
+  width:20%;
+}
+
+.ads{
+  text-align:center;
+  display:inline-block;
+  margin:30px;
+  padding:auto;
+  width:20%;
+
+}
+
+.adwords{
+  text-align:center;
+  display:inline-block;
+  margin:30px;
+  padding:auto;
+  width:20%;
+}
+
+.astec{
+  text-align:center;
+  display:inline-block;
+  margin:30px;
+  padding:auto;
+  width:20%;
+}
+#tecno{
+  background-color:#0080FF;
+    }
+
+#tecno img{
+  position:static;
+  width:70%;
+  margin-top: 40px;
+    }
+
+#tecno h3{
+    text-align:center;
+    font-family:"Sansita One";
+    width:100%;
+    position: static;
+    color:white;
+    margin-top:0px;
+    }
+#tecno p{
+  text-align:center;
+}
+
+body{
+    padding-top:0px;
+    margin:0px;
+    background-color:black;
+    }
+
+#responsive{
+   background-color:#0080FF;
+   }
+
+#responsive img{
+    position:static;
+    width:70%;
+    margin-top:60px;
+    }
+
+#responsive h3 {
+    position:static;
+    text-align:center;
+    font-family:"sansita One";
+    width:100%;
+    margin-top: 50px;
+    color:white;
+    }
+#footer{
+  background-color:black;
+
+}
+#footer img{
+  width:5%;
+  margin-top: 1px;
+  float:center;
+  padding:0px;
+}
+
+#footer1{
+  background-color:black;
+  margin-top:20px;
+}
+#footer1 img{
+  width:5%;
+  margin-top: 1px;
+  float:center;
+  padding:0px;
+}

@@ -1,0 +1,173 @@
+@media screen and (max-width:800px) {
+
+  body{
+    background-color:#0080FF;
+    position:absolute;
+  }
+
+header nav {
+		width:80%;
+		height:100%;
+		left:-100%;
+		margin:0;
+		position: fixed;
+	}
+
+	header nav ul li {
+		display:block;
+		float:none;
+		border-bottom:1px solid rgba(255,255,255, .3);
+	}
+  header figure img{
+    display:none;
+  }
+
+  header nav figure h3{
+    display:none;
+  }
+
+	.menu_bar {
+		display:block;
+		width:100%;
+		background-color:black;
+
+	}
+
+	.menu_bar .bt-menu {
+		display:block;
+		padding:20px;
+		background:black;
+		color:#fff;
+		text-decoration:none;
+		font-weight: bold;
+		font-size:25px;
+		-webkit-box-sizing:border-box;
+		-moz-box-sizing:border-box;
+		box-sizing:border-box;
+
+	}
+
+	.menu_bar span {
+		float:right;
+		font-size:30px;
+	}
+
+#main img{
+    display:list-item;
+    margin:4px;
+    margin-top:70px;
+    background-color:#0080FF;
+    position:static;
+    }
+
+#main h1{
+     position:static;
+    }
+
+#main h5{
+     position:static;
+    }
+
+#responsive img{
+     position:static;
+    }
+
+#responsive h3{
+     position: static;
+    }
+
+#responsive p{
+     position: static;
+    }
+
+#container{
+  list-style: none;
+}
+
+#container2{
+  list-style: none;
+}
+
+#container3{
+  list-style: none;
+}
+
+.analytics{
+  display:list-item;
+  width:80%;
+  text-align:center;
+}
+
+.hosting{
+  display:list-item;
+  width:80%;
+  text-align:center;
+}
+
+.dominio{
+  display:list-item;
+  width:80%;
+  text-align:center;
+}
+
+.seo{
+  display:list-item;
+  width:80%;
+  text-align:center;
+}
+
+.webmaster{
+  display:list-item;
+  width:80%;
+  text-align:center;
+}
+
+.update{
+  display:list-item;
+  width:80%;
+  text-align:center;
+}
+
+.ads{
+  display:list-item;
+  width:80%;
+  text-align:center;
+}
+
+.adwords{
+  display:list-item;
+  width:80%;
+  text-align:center;
+}
+
+.astec{
+  display:list-item;
+  width:80%;
+  text-align:center;
+}
+.campaings{
+  text-align: left;
+  width:50%;
+  float:center;
+    }
+.sitios{
+  text-align: left;
+  width:50%;
+  margin-top:50px;
+  float:center;
+}
+
+.plan{
+  text-align: left;
+  width:50%;
+  margin-top:50px;
+  float:center;
+}
+
+#footer{
+  display:none;
+}
+#footer1{
+  display:none;
+}
+}
